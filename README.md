@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chazarodev
-- 👀 I’m interested in languages like javascript, React, java, python and php.
-- 🌱 I’m currently learning git. 
+- 👀 I’m interested in languages like javascript, java, python and php.
+- 🌱 I’m currently learning git and React. 
 - 💞️ I’m looking to collaborate on... 
 - 📫 How to reach me: shazarerom@gmail.com also you can see my portfolio: https://portfoliochazaro.netlify.app/
 
