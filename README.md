@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @chazarodev
-- 👀 I’m interested in languages like javascript, java, python and php.
-- 🌱 I’m currently learning git and React. 
-- 💞️ I’m looking to collaborate on... 
-- 📫 How to reach me: shazarerom@gmail.com also you can see my portfolio: https://portfoliochazaro.netlify.app/
-
-Since the beginning of coronavirus I started to learn code. I started with C, C++ and Java, then saw a little about python.
-I realized that i had to start learning about web development so I begun whit HTML5 and CSS3 and added javascript. 
-In fact i get funny doing stuff on the web so I had get more deep on javascript and its frameworks. 
-So here I am, one path took me to another.
+👋 Hi, I'm @chazarodev
+👀 I'm interested in web development with the MERN stack using JavaScript, as well as Python development and task automation with shellscript in Linux systems. I also have basic knowledge in cybersecurity and networking from the Cisco cybersecurity course.
+🌱 I'm currently learning new technologies and frameworks to enhance my web development and task automation skills.
+💞️ I would love to collaborate on projects involving web application development and task automation.
+📫 You can reach me at shazarerom@gmail.com and check out my portfolio at https://portfoliochazaro.netlify.app/
 
